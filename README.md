@@ -1,5 +1,5 @@
 <h2 align="center">
-   Portfolio Website - v2.0<br/>
+   Portfolio Website<br/>
    <a href="https://soliman.vercel.app/" target="_blank">soliman-sDev</a>
  </h2>
  <div align="center">
@@ -8,14 +8,14 @@
 
 # Technologies Used
 
-    This project was built using these technologies.
+This project was built using these technologies.
     
-    <ul>
-        <li>HTML5</li>
-        <li>Javascript</li>
-        <li>CSS</li>
-        <li>Vercel</li>
-    </ul>
+<ul>
+   <li>HTML5</li>
+   <li>Javascript</li>
+   <li>CSS</li>
+   <li>Vercel</li>
+</ul>
 
 # Features
 
