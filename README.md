@@ -8,14 +8,14 @@
 
 # Technologies Used
 
-    This project was built using these technologies.
+This project was built using these technologies.
     
-    <ul>
-        <li>HTML5</li>
-        <li>Javascript</li>
-        <li>CSS</li>
-        <li>Vercel</li>
-    </ul>
+<ul>
+   <li>HTML5</li>
+   <li>Javascript</li>
+   <li>CSS</li>
+   <li>Vercel</li>
+</ul>
 
 # Features
 
