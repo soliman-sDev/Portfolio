@@ -19,8 +19,8 @@ This project was built using these technologies.
 
 # Features
 
-📖 Multi-Page Layout
+📖 Single-Page Layout
 
-🌙 Styled with React-Bootstrap and Css with easy to customize colors
+🌙 Dark Mode
 
 📱 Fully Responsive
