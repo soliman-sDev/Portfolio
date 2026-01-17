@@ -21,3 +21,5 @@ themeTogglerBtn.addEventListener('click', (event) => {
         themeTogglerBtn.innerText = "light_mode";
     }
 })
+
+document.getElementById("year").textContent = new Date().getFullYear() + " Soliman Soliman";
